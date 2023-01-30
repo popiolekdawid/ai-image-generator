@@ -19,16 +19,19 @@ Fashion MNIST is a set of Zalando clothing and shoe images consisting of a train
 
 # Results:
 
-Our Classes in the training set (we can see nice separation):
+### Our Classes in the training set (we can see nice separation):
 ![DataClasses](https://user-images.githubusercontent.com/112573508/215481439-1e5220cf-300c-4ba1-98ed-4d8cd486498e.png)
 
-Generated Images:
+### Generated Images:
 ![genImgClasses](https://user-images.githubusercontent.com/112573508/215483065-72e2dcdd-72cb-4c0c-a1f0-e6073e780df8.jpg)
 
 
-Noise reduction with the Autoencoder:
+### Noise reduction with the Autoencoder:
 ![noise](https://user-images.githubusercontent.com/112573508/215482568-1ffdd3ff-8bc8-4d5c-a029-05c4264163cc.jpg)
 ![noisereduction](https://user-images.githubusercontent.com/112573508/215482811-10d9a383-1b45-4ba6-8095-d8f2fdf50226.jpg)
 
-Results of GAN generation:
+### Results of GAN generation:
+
 ![GAN_generated](https://user-images.githubusercontent.com/112573508/215483479-ae63360b-7656-4140-86f1-15b58947c828.gif)
+
+We can see how the images start as noise and are shaped into images of shoes and clothes.
